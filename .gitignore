@@ -1,0 +1,7 @@
+/vendor/
+/node_modules/
+composer.phar
+.env
+.DS_Store
+Thumbs.db
+*.log
